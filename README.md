@@ -2,7 +2,7 @@
 
 A responsive student-portal interface prototype with dashboard, course, calendar, document, finance, grade, and profile screens.
 
-> This repository is private pending authorization to use the institution's name and visual identity. Authentication and user records are stored in browser `localStorage`; this is a prototype, not production authentication.
+> Public source edition. Configure credentials locally and use empty or synthetic inputs. Company and institution names identify the original integration context; this repository does not claim affiliation or endorsement.
 
 ## Stack
 
